@@ -50,6 +50,8 @@ A Complaint Tracking and Disposal System built using the MERN Stack (MongoDB, Ex
 └── README.md
 ```
 
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
@@ -92,3 +94,17 @@ VITE_BACKEND_API_BASE=your_backend_api's_base
 ## ✨ Author
 
 - Hiren Sarvaiya
+
+---
+
+## 🚀 Deployed Applications
+
+**Backend** : Deployed on [Render](https://render.com)  
+  https://resolvepoint-backend.onrender.com
+
+**Frontend** : Deployed on [Netlify](https://netlify.com)  
+  [https://resolvepoint.netlify.app](https://resolvepoint.netlify.app)
+
+**Database** : Hosted on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+
+---
